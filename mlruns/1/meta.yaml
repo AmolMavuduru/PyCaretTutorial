@@ -1,0 +1,4 @@
+artifact_location: file:///Users/amol/Documents/Machine%20Learning%20Projects/PyCaretTutorial/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: ca_housing

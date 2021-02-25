@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amol/Documents/Machine%20Learning%20Projects/PyCaretTutorial/mlruns/1/df7d183adefb439caf3e0034cb9bfd99/artifacts
+end_time: 1613943431216
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: df7d183adefb439caf3e0034cb9bfd99
+run_uuid: df7d183adefb439caf3e0034cb9bfd99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1613943431117
+status: 3
+tags: []
+user_id: amol
